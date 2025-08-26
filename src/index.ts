@@ -41,3 +41,5 @@ export default function merge (collection_1: number[], collection_2: number[], c
     }
     return combined_list;
 };
+
+console.log(merge([1, 2, 3], [3, 2, 1], [4, 5]));
