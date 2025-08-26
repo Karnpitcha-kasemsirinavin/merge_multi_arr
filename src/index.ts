@@ -6,9 +6,6 @@
 //      collection_1, collection_3 already sorted from min(0) to max
 //      collection_2 already sorted from max to min(0)
 
-// Please provide accessible repo of typescript project with unit test
-// and provide how to setup dependency and execute code and unit test
-
 // ! Note: Don't allow to use any sort function
 
 export default function merge (collection_1: number[], collection_2: number[], collection_3: number[]) : number[] {
