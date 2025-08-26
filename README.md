@@ -8,10 +8,11 @@ This project contains a `merge` function that merges three arrays into ascending
 ├─ src/
 │   └─ index.ts            # merge function
 ├─ tests/
-│   └─ index.test.ts       # unit tests for merge
+│   └─ index.test.ts       # unit tests 
 ├─ package.json            # scripts & dependencies
-├─ tsconfig.json           # TypeScript configuration
-└─ jest.config.js          # Jest configuration
+├─ tsconfig.json           # typescript configuration
+├─ jest.config.js          # Jest configuration
+└─ yarn.lock               # exact dependency versions
 ```
 
 ## Prerequisites
